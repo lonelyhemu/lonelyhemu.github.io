@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Dark/Light responsive favicon -->
+  <rect width="100" height="100" rx="18" fill="#121316"/>
+  <!-- Central Lance Spike -->
+  <path d="M42 6 L44 48 L44 94 L42 94 L42 52 L32 42 L38 38 L42 41 Z" fill="#FFFFFF"/>
+  <!-- Angular R Glyph -->
+  <path d="M47 34 L82 34 L72 52 L47 52 Z M55 40 L71 40 L65 46 L55 46 Z" fill="#FFFFFF"/>
+  <path d="M47 56 L64 56 L78 72 L68 72 L55 58 L47 58 Z" fill="#FFFFFF"/>
+  <path d="M68 72 L88 78 L78 84 L64 74 Z" fill="#FFFFFF"/>
+</svg>
